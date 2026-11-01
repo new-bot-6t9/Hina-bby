@@ -8,7 +8,7 @@ const mahmud = [
     "jan",
     "bot",
     "জান",
-    "জানু",
+    "KIRITO",
     "বেবি",
     "wifey",
     "hina",
